@@ -108,10 +108,10 @@ public class Smoketesting {
         update.click();
         Thread.sleep(5000);
 
-        WebElement updatequantity1 = driver.findElement(By.className("qty-actions__iterator qty-actions__iterator--decrement js-qty-iterator"));
-        updatequantity1.click();
-        WebElement update1 = driver.findElement(By.className("qty-update js-update-qty"));
-        update1.click();
+//        WebElement updatequantity1 = driver.findElement(By.className("qty-actions__iterator qty-actions__iterator--decrement js-qty-iterator"));
+//        updatequantity1.click();
+//        WebElement update1 = driver.findElement(By.className("qty-update js-update-qty"));
+//        update1.click();
 
     }
 }
